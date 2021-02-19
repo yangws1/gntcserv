@@ -1,0 +1,23 @@
+
+
+input 
+{
+	height: 1.15em;
+	border-radius: 0px;
+	border-top: none;
+	border-left: none; border-right: none;
+	outline: none;
+	border-bottom: 2px solid;
+	border-color: skyblue;
+	transition: 0.4s;
+}
+
+input:focus
+{
+	border-color: pink
+}
+
+.hair-line
+{
+	width: 40%;
+}
